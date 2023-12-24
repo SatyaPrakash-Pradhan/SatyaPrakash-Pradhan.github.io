@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "spradhan47@gatech.edu"#"md5"
   generatedFields:
     date:
       type               : "date"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=7AFYD3wAAAAJ&hl=en"
-  email            : #spradhan47@gatech.edu 
+  email            : spradhan47@gatech.edu 
   researchgate     :  "https://www.researchgate.net/profile/Satya-Pradhan"
   uri              :
   bitbucket        :
