@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Satya's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Satya Prakash Pradhan"
 description              : &description "personal description"
 url                      : https://https://satyaprakash-pradhan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Satya Prakash Pradhan"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD Student"
+  location         : "Atlanta, Georgia, US"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=7AFYD3wAAAAJ&hl=en"
+  email            : "spradhan47@gatech.edu"
+  researchgate     :  "https://www.researchgate.net/profile/Satya-Pradhan"
   uri              :
   bitbucket        :
   codepen          :
