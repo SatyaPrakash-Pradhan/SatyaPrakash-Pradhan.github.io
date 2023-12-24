@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Satya's Homepage"
 title_separator          : "-"
-name                     : &name "Satya Pradhan"
+name                     : &name "Satya Prakash Pradhan"
 description              : &description "personal description"
 url                      : https://satyaprakash-pradhan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "spradhan47@gatech.edu"#"md5"
+    email                : "md5"
   generatedFields:
     date:
       type               : "date"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Satya Prakash Pradhan"
+  name             : "Satya Pradhan"
   avatar           : "profile.png"
   bio              : "PhD Student at Georgia Tech"
   location         : "Atlanta, United States"
