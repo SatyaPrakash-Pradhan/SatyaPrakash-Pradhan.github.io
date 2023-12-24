@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Satya Prakash Pradhan"
   avatar           : "profile.png"
-  bio              : "PhD Student"
-  location         : "Atlanta, Georgia, US"
-  employer         : "School of Civil and Environmental Engineering, Georgia Institute of Technology"
+  bio              : "PhD Student at Georgia Tech"
+  location         : "Atlanta, United States"
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=7AFYD3wAAAAJ&hl=en"
   email            :  "spradhan47@gatech.edu"  
