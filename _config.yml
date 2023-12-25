@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Satya's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Satya Prakash Pradhan"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Satya Pradhan"
   avatar           : "profile.png"
-  bio              : "School of Civil and Environmental Engineering, Georgia Tech"
+  bio              : "PhD student at Georgia Tech in Engineering Science and Mechanics"
   location         : "Atlanta, United States"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
