@@ -1,15 +1,13 @@
 ---
-title: "Accretion–ablation mechanics"
+title: "Accretion mechanics of nonlinear elastic circular cylindrical bars under finite torsion"
 collection: publications
 permalink: /publication/2022--Accreting-Shaft-Ya-Pr-JoE
-excerpt: 'In this paper, we formulate a geometric nonlinear theory of the mechanics of accreting–ablating bodies. As a concrete example and application of the geometric theory, we analyse a thick hollow circular cylinder made of an arbitrary incompressible isotropic material that is under a finite time-dependent extension while undergoing continuous ablation on its inner cylinder boundary and accretion on its outer cylinder boundary.'
-date: '06 November 2023'
-venue: 'Philosophical Transactions of the Royal Society A'
-paperurl: 'http://doi.org/10.1098/rsta.2022.0373'
+excerpt: 'In this paper, we formulate the initial-boundary value problem of accreting circular cylindrical bars under finite torsion. It is assumed that the bar grows as a result of printing stress-free cylindrical layers on its boundary while it is under a time-dependent torque and is free to deform axially.'
+date: '29 November 2022'
+venue: 'Journal of Elasticity'
+paperurl: 'https://doi.org/10.1007/s10659-022-09957-6'
 citation: 'Pradhan, Satya Prakash and Yavari, Arash, 2023. Accretion–ablation mechanics. <i>Phil. Trans. R. Soc. A.</i> 381: 20220373. 20220373.'
 ---
-In this paper, we formulate a geometric nonlinear theory of the mechanics of accreting–ablating bodies. This is a generalization of the theory of accretion mechanics of Sozio and Yavari (2019). More specifically, we are interested in large deformation analysis of bodies that undergo a continuous and simultaneous accretion and ablation on their boundaries while under external loads. In this formulation, the natural configuration of an accreting–ablating body is a time-dependent Riemannian 3-manifold with a metric that is an unknown a priori and is determined after solving the accretion–ablation initial-boundary-value problem. In addition to the time of attachment map, we introduce a time of detachment map that along with the time of attachment map, and the accretion and ablation velocities, describes the time-dependent reference configuration of the body. The kinematics, material manifold, material metric, constitutive equations, and the balance laws are discussed in detail. As a concrete example and application of the geometric theory, we analyse a thick hollow circular cylinder made of an arbitrary incompressible isotropic material that is under a finite time-dependent extension while undergoing continuous ablation on its inner cylinder boundary and accretion on its outer cylinder boundary. The state of deformation and stress during the accretion–ablation process, and the residual stretch and stress after the completion of the accretion–ablation process, are computed.
-
-This article is part of the theme issue ‘Foundational issues, analysis and geometry in continuum mechanics’.
+In this paper, we formulate the initial-boundary value problem of accreting circular cylindrical bars under finite torsion. It is assumed that the bar grows as a result of printing stress-free cylindrical layers on its boundary while it is under a time-dependent torque (or a time-dependent twist) and is free to deform axially. In a deforming body, accretion induces eigenstrains, and consequently residual stresses. We formulate the anelasticity problem by first constructing the natural Riemannian metric of the growing bar. This metric explicitly depends on the history of deformation during the accretion process. To simplify the kinematics, we consider incompressible solids. For the example of incompressible neo-Hookean solids, we solve the governing equations numerically. We also linearize the governing equations and compare the linearized solutions with the numerical solutions of the neo-Hookean bars.
 
 [Download paper here](https://arxiv.org/pdf/2307.00159.pdf)
