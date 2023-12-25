@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* PhD in Engineering Mechanics, Georgia Tech, 2024 (expected)
-* MTech in Mechanics and Design, IIT Hyderabad, 2021
-* BTech in Mechanical Engineering, IIT Hyderabad, 2020
+* Ph.D. in Engineering Mechanics, Georgia Tech, 2024 (expected)
+* M.Tech. in Mechanics and Design, IIT Hyderabad, 2021
+* B.Tech. in Mechanical Engineering, IIT Hyderabad, 2020
   
 
 
