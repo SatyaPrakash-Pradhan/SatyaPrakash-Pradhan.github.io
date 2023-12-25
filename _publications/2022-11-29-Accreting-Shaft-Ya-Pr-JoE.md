@@ -10,4 +10,4 @@ citation: 'Pradhan, Satya Prakash and Yavari, Arash, 2023. Accretion–ablation 
 ---
 In this paper, we formulate the initial-boundary value problem of accreting circular cylindrical bars under finite torsion. It is assumed that the bar grows as a result of printing stress-free cylindrical layers on its boundary while it is under a time-dependent torque (or a time-dependent twist) and is free to deform axially. In a deforming body, accretion induces eigenstrains, and consequently residual stresses. We formulate the anelasticity problem by first constructing the natural Riemannian metric of the growing bar. This metric explicitly depends on the history of deformation during the accretion process. To simplify the kinematics, we consider incompressible solids. For the example of incompressible neo-Hookean solids, we solve the governing equations numerically. We also linearize the governing equations and compare the linearized solutions with the numerical solutions of the neo-Hookean bars.
 
-[Download paper here](https://arxiv.org/pdf/2307.00159.pdf)
+[Download paper here](https://imechanica.org/files/AccretingShaftYaPr2022.pdf)
