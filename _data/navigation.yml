@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Resume"
+  - title: "CV"
     url: /cv1/
     
-    - title: "Research"
+    - title: "Publications"
     url: /publications/
 
   #- title: "Talks"
