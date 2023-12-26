@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Research"
+  - title: "Publications"
     url: /publications/
 
   #- title: "Talks"
@@ -15,7 +15,7 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "Education"
+  - title: "CV"
     url: /cv1/
     
   - title: "Guide"
