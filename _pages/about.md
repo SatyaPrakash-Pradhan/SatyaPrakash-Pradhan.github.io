@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). 
-
+I am pursuing my Ph.D. in the School of Civil and Environmental Engineering at the Georgia Institute of Technology.
 
 My Background
 ------
