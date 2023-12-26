@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am pursuing my Ph.D. in the School of Civil and Environmental Engineering at the Georgia Institute of Technology.
+I am pursuing my Ph.D. in the School of Civil and Environmental Engineering at Georgia Tech.
 
 My Background
 ------
