@@ -15,7 +15,7 @@ I was born and raised in Bhubaneswar, India. I earned my Bachelor's in Mechanica
 
 My Research
 -----
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. 
+My current research focuses on the accretion and ablation of deformable bodies induced by phase transition. Together with my advisor, [Prof. Arash Yavari](https://research.gatech.edu/arash-yavari), I utilize a geometric theory developed within the group to understand the mechanics of such systems, which are governed by boundary value problems over an evolving domain, the location of whose boundary is a priori unknown.
 
 
 
