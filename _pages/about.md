@@ -11,7 +11,7 @@ I am pursuing my Ph.D. in the School of Civil and Environmental Engineering at G
 
 My Background
 ------
-I was born and raised in Bhubaneswar, India. I earned a Bachelor's in Mechanical Engineering with a minor in Mathematics from IIT Hyderabad. During the pandemic, I extended my program to complete a Master's in Mechanics and Design from the same institute.
+I was born and raised in Bhubaneswar, India. I earned my Bachelor's in Mechanical Engineering with a minor in Mathematics from IIT Hyderabad. Subsequently, I completed a Master's in Mechanics and Design at the same institute before moving to Atlanta for my Ph.D.
 
 My Research
 -----
