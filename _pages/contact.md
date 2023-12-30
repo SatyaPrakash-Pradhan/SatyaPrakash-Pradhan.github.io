@@ -4,7 +4,7 @@ title: "Contact"
 author_profile: true
 redirect_from: 
   - /md/
-  - /contact.html
+  - /markdown.html
 ---
 
 ### Address Tag
