@@ -15,7 +15,6 @@ redirect_from:
 * B.Tech. in Mechanical Engineering, IIT Hyderabad, 2020
 
 ## Research Interests
-======
 * Solid Mechanics  
 * Differential Geometry
 * Computational Methods
