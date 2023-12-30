@@ -23,23 +23,37 @@ redirect_from:
 
   
 ## Technical Skills
-======
-* Programming: 
-  * Sub-skill 1.1   
-* Software:
-  * Sub-skill 2.1
-* Documentation:
-  * Sub-skill 2.1
+* Programming Languages: C, C++, Matlab  
+* Software Packages: Solid Edge, Solid Works, Ansys,  Abaqus
+* Documentation: LaTeX, Microsoft Office, Adobe Illustrator, Inkscape
   
 
-Relevant Coursework
-======
-* Mathematics
-  * Sub-skill 1.1   
-* Mechanics
-  * Sub-skill 2.1  
+## Relevant Coursework
+* Mathematics:
+  * Real Analysis
+  * Complex Analysis
+  * Differential Topology
+  * Groups and Rings
+  * Linear Algebra
+  * Numerical Analysis
+  * Riemannian Geometry
+  * Partial Differential Equations
+* Mechanics:
+  * Continuum Mechanics
+  * Computational Mechanics
+  * Fracture Mechanics
+  * Computational Fluid Dynamics
+  * Hydrodynamic Stability
+  * Dynamics and Vibration
+    
+   
   
-Teaching Experience
-======
- # <ul>{% for post in site.teaching %}    {% include archive-single-cv.html %}  {% endfor %}</ul>
+## Teaching Experience
+* Statics, TA at Georgia Tech
+* Mathematical methods in Civil Engineering, TA at Georgia Tech
+* Solid Mechanics, TA at IIT Hyderabad
+* Applied Elasticity, TA  at IIT Hyderabad
+* Engineering Dynamics, Grader at IIT Hyderabad
+* Transform Techniques, Grader at IIT Hyderabad
+
   
