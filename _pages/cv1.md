@@ -49,11 +49,13 @@ redirect_from:
    
   
 ## Teaching Experience
-* Statics (Georgia Tech)
-* Mathematical methods in Civil Engineering (Georgia Tech)
-* Solid Mechanics (IIT Hyderabad)
-* Applied Elasticity (IIT Hyderabad)
-* Engineering Dynamics (IIT Hyderabad)
-* Transform Techniques (IIT Hyderabad)
+* At Georgia Tech:
+  * Statics 
+  * Mathematical methods in Civil Engineering 
+* At IIT Hyderabad:
+  * Solid Mechanics 
+  * Applied Elasticity 
+  * Engineering Dynamics
+  * Transform Techniques
 
   
