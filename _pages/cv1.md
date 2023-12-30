@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-======
+##
 * Ph.D. in Engineering Science and Mechanics, Georgia Tech, 2024 (expected)
 * M.Tech. in Mechanics and Design, IIT Hyderabad, 2021
 * B.Tech. in Mechanical Engineering, IIT Hyderabad, 2020
-------
+
 ## Research Interests
 ======
 * Solid Mechanics  
@@ -23,7 +23,7 @@ redirect_from:
   
 
   
-Technical Skills
+## Technical Skills
 ======
 * Programming: 
   * Sub-skill 1.1   
