@@ -14,18 +14,29 @@ redirect_from:
 * M.Tech. in Mechanics and Design, IIT Hyderabad, 2021
 * B.Tech. in Mechanical Engineering, IIT Hyderabad, 2020
   
-
-
-  
-Skills
+Research Interests
 ======
 * Skill 1
+  * Sub-skill 1.1   
 * Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Sub-skill 2.1  
+  
 
+  
+Technical Skills
+======
+* Skill 1
+  * Sub-skill 1.1   
+* Skill 2
+  * Sub-skill 2.1  
+  
+
+Relevant Coursework
+======
+* Mathematics
+  * Sub-skill 1.1   
+* Mechanics
+  * Sub-skill 2.1  
   
 Teaching
 ======
