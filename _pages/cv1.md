@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Short CV"
+title: "Education"
 permalink: /cv1/
 author_profile: true
 redirect_from:
@@ -9,12 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Research Interests
 ======
 * Ph.D. in Engineering Science and Mechanics, Georgia Tech, 2024 (expected)
 * M.Tech. in Mechanics and Design, IIT Hyderabad, 2021
 * B.Tech. in Mechanical Engineering, IIT Hyderabad, 2020
-  
+------
 Research Interests
 ======
 * Solid Mechanics  
