@@ -49,11 +49,11 @@ redirect_from:
    
   
 ## Teaching Experience
-* Statics, TA at Georgia Tech
-* Mathematical methods in Civil Engineering, TA at Georgia Tech
-* Solid Mechanics, TA at IIT Hyderabad
-* Applied Elasticity, TA  at IIT Hyderabad
-* Engineering Dynamics, Grader at IIT Hyderabad
-* Transform Techniques, Grader at IIT Hyderabad
+* Statics (Georgia Tech)
+* Mathematical methods in Civil Engineering (Georgia Tech)
+* Solid Mechanics (IIT Hyderabad)
+* Applied Elasticity (IIT Hyderabad)
+* Engineering Dynamics (IIT Hyderabad)
+* Transform Techniques (IIT Hyderabad)
 
   
