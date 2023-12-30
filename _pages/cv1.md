@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education"
+title: "Short CV"
 permalink: /cv1/
 author_profile: true
 redirect_from:
@@ -9,26 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
-
+Research Interests
+======
 * Ph.D. in Engineering Science and Mechanics, Georgia Tech, 2024 (expected)
 * M.Tech. in Mechanics and Design, IIT Hyderabad, 2021
 * B.Tech. in Mechanical Engineering, IIT Hyderabad, 2020
   
 Research Interests
 ======
-* Skill 1
-  * Sub-skill 1.1   
-* Skill 2
-  * Sub-skill 2.1  
+* Solid Mechanics  
+* Differential Geometry
+* Computational Methods
+   
   
 
   
 Technical Skills
 ======
-* Skill 1
+* Programming: 
   * Sub-skill 1.1   
-* Skill 2
-  * Sub-skill 2.1  
+* Software:
+  * Sub-skill 2.1
+* Documentation:
+  * Sub-skill 2.1
   
 
 Relevant Coursework
