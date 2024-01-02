@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am pursuing my Ph.D. in the School of Civil and Environmental Engineering at Georgia Tech.
+I am pursuing my Ph.D. in the School of Civil and Environmental Engineering at Georgia Tech. [Prof. Arash Yavari](https://research.gatech.edu/arash-yavari)
 
 My Background
 ------
@@ -15,7 +15,7 @@ I was born and raised in Bhubaneswar, India. I earned my Bachelor's in Mechanica
 
 My Research
 -----
-My current research focuses on the accretion and ablation of deformable bodies induced by phase transition. Together with my advisor, [Prof. Arash Yavari](https://research.gatech.edu/arash-yavari), I utilize a geometric theory developed within the group to understand the mechanics of such systems, which are governed by boundary value problems over an evolving domain, the location of whose boundary is a priori unknown.
+My current research focuses on the mathematical modeling of accretion-ablation processes in deformable bodies. In particular, I'm studying the evolution of thermal stresses in nonlinear elastic solid bodies during the addition and removal of material points from the boundary via phase transition.
 
 
 
