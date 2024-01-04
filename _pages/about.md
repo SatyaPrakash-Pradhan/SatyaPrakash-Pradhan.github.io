@@ -14,7 +14,7 @@ My Research
 -----
 My current research focuses on the mathematical modeling of accretion-ablation processes in deformable bodies. In particular, I'm studying the evolution of thermal stresses in nonlinear elastic solid bodies during the addition and removal of material points from the boundary via phase transition.
 
-Before this, I studied instabilities in slender structures resulting from large deformations caused by multiphysics problems. My master's and undergraduate research specifically focused on elastoelastic shells and magnetoelastic membranes. Additionally, I delved into the study of chiral material symmetries in rods and growth-induced instabilities in such structures.
+Before this, I studied instabilities in slender structures resulting from large deformations caused by multiphysics phenomena. My master's and undergraduate research focused on elastoelastic shells and magnetoelastic membranes. Additionally, I delved into the study of chiral material symmetries in rods and growth-induced instabilities in such structures.
 
 My Interests
 -----
