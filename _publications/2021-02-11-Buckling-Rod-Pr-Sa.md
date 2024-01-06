@@ -2,7 +2,7 @@
 title: "Buckling of chiral rods due to coupled axial and rotational growth"
 collection: publications
 permalink: /publication/2021-02-11-Buckling-Rod-Pr-Sa
-excerpt: 'In this paper, we propose a growth model for special Cosserat rods, allowing induced rotation of cross-sections. In straight rods with helical and hemitropic symmetries, we demonstrate growth-induced out-of-plane buckling under guided-guided boundary conditions.'
+excerpt: 'In this paper, we propose a growth model for special Cosserat rods, allowing induced rotation of cross-sections. In straight rods with helical and hemitropic symmetries, we demonstrate growth-induced out-of-plane buckling under guided-guided boundary conditions. [PDF](https://journals.sagepub.com/doi/pdf/10.1177/1081286521999704)'
 date: '11 February 2021'
 venue: 'Mathematics and Mechanics of Solids'
 paperurl: 'https://doi.org/10.1177/1081286521999704'
