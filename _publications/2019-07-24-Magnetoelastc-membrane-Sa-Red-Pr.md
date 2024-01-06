@@ -1,7 +1,7 @@
 ---
 title: "Magnetoelastic deformation of a circular membrane: wrinkling and limit point instabilities"
 collection: publications
-permalink: /publication/https://eprints.gla.ac.uk/190406/1/190406.pdf
+permalink:  (https://eprints.gla.ac.uk/190406/1/190406.pdf)
 excerpt: 'We investigate the inflation of a weakly magnetizable, isotropic, incompressible circular membrane in the presence of a magnetic dipole. This paper focuses on determining multiple equilibria under a single coupled load for a circular membrane and identifying wrinkling instability induced by magnetoelastic stresses in various loading scenarios.'
 date: 24 July 2019
 venue: 'International Journal of Non-Linear Mechanics'
