@@ -2,7 +2,7 @@
 title: "Accretion–ablation mechanics"
 collection: publications
 permalink: /publication/2023-11-06-Accretion-ablation-Pr-Ya-PTRSA
-excerpt: 'In this paper, we formulate a geometric nonlinear theory of the mechanics of accreting–ablating bodies. As a concrete example and application of the geometric theory, we analyse a thick hollow circular cylinder made of an arbitrary incompressible isotropic material that is under a finite time-dependent extension while undergoing continuous ablation on its inner cylinder boundary and accretion on its outer cylinder boundary.'
+excerpt: 'In this paper, we formulate a geometric nonlinear theory of the mechanics of accreting–ablating bodies. As a concrete example and application of the geometric theory, we analyse a thick hollow circular cylinder made of an arbitrary incompressible isotropic material that is under a finite time-dependent extension while undergoing continuous ablation on its inner cylinder boundary and accretion on its outer cylinder boundary. [PDF](https://arxiv.org/pdf/2307.00159.pdf)'
 date: '06 November 2023'
 venue: 'Philosophical Transactions of the Royal Society A'
 paperurl: 'http://doi.org/10.1098/rsta.2022.0373'
