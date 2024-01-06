@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink:  
 author_profile: true
 ---
-dghhaethgfhvhethf
+1. List item one 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
