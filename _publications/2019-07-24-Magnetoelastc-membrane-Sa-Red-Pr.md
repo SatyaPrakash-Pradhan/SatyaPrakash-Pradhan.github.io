@@ -8,8 +8,9 @@ venue: 'International Journal of Non-Linear Mechanics'
 paperurl: 'https://doi.org/10.1016/j.ijnonlinmec.2019.07.006'
 citation: 'Saxena, P., Reddy, N. H. and Pradhan, S. P. (2019) Magnetoelastic deformation of a circular membrane: wrinkling and limit point instabilities. <i>International Journal of NonLinear Mechanics</i>, 116, pp. 250-261.'
 ---
-[Download paper here](https://eprints.gla.ac.uk/190406/1/190406.pdf)
 We investigate the inflation of a weakly magnetizable, isotropic, incompressible circular membrane in the presence of a magnetic dipole. This paper focuses on determining multiple equilibria under a single coupled load for a circular membrane and identifying wrinkling instability induced by magnetoelastic stresses in various loading scenarios.
+
+[Download paper here](https://eprints.gla.ac.uk/190406/1/190406.pdf)
 
 
 
