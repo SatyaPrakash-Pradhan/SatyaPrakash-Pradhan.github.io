@@ -2,7 +2,7 @@
 title: "Accretion mechanics of nonlinear elastic circular cylindrical bars under finite torsion"
 collection: publications
 permalink: /publication/2022--Accreting-Shaft-Ya-Pr-JoE
-excerpt: 'In this paper, we formulate the initial-boundary value problem of accreting circular cylindrical bars under finite torsion. It is assumed that the bar grows as a result of printing stress-free cylindrical layers on its boundary while it is under a time-dependent torque and is free to deform axially.'
+excerpt: 'In this paper, we formulate the initial-boundary value problem of accreting circular cylindrical bars under finite torsion. It is assumed that the bar grows as a result of printing stress-free cylindrical layers on its boundary while it is under a time-dependent torque and is free to deform axially. [PDF](https://imechanica.org/files/AccretingShaftYaPr2022.pdf)'
 date: '29 November 2022'
 venue: 'Journal of Elasticity'
 paperurl: 'https://doi.org/10.1007/s10659-022-09957-6'
