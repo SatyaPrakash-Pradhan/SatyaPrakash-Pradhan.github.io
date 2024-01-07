@@ -17,7 +17,7 @@ redirect_from:
 ## Research Interests
 * Solid Mechanics  
 * Differential Geometry
-* Computational Methods
+* Numerical Methods
    
   
 
